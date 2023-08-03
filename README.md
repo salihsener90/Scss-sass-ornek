@@ -1,12 +1,14 @@
-<h2>Sass  İle İlgili örnek kısa bir Projedir</h2>
+<h2>Sass(Scss)  İle İlgili Örnek bir projedir</h2>
 
-Proje içeriğinde genel itibari ile sass ile ilgili içerikler bulunmaktadır.
+Proje içeriğinde Sass(Scss) özelliklerini  tarzında site ekran özellikleri bulunmaktadır
 
 <h3>Kullanılan Teknolojiler</h3>
 
-Bu projede HTML, SCSS,  teknolojileri kullanılmıştır.
+Bu projede HTML, CSS,  teknolojileri kullanılmıştır.
 
 <h4>Projeye ait ekran resmi</h4>
 
-![](SASS.ÖRNEK.gif)
-# Sass-ornek
+![](Responsive-landing-page)
+
+
+Curl ascii.live/forrest
