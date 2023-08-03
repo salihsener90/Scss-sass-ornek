@@ -4,11 +4,10 @@ Proje içeriğinde Sass(Scss) özelliklerini  tarzında site ekran özellikleri 
 
 <h3>Kullanılan Teknolojiler</h3>
 
-Bu projede HTML, CSS,  teknolojileri kullanılmıştır.
+Bu projede HTML, SCSS(SASS),CSS  teknolojileri kullanılmıştır.
 
 <h4>Projeye ait ekran resmi</h4>
 
-![](Responsive-landing-page)
+![](SASS.ÖRNEK.gif)
 
 
-Curl ascii.live/forrest
