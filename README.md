@@ -9,3 +9,4 @@ Bu projede HTML, SCSS,  teknolojileri kullanılmıştır.
 <h4>Projeye ait ekran resmi</h4>
 
 ![](SASS.ÖRNEK.gif)
+# Sass-ornek
